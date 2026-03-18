@@ -2,7 +2,7 @@
 
 A full-stack social media feed application with user authentication, post management, and interactive features.
 
-**Live Application:** https://socialmediafeed.paweldywandev.com/
+**Live Application:** https://socialmediafeed.paweldywan.com/
 
 ## Overview
 
@@ -357,7 +357,7 @@ This project is licensed under the MIT License. See the LICENSE file for details
 **Pawel Dywan**
 
 - GitHub: [@paweldywandev](https://github.com/paweldywandev)
-- Website: https://paweldywandev.com/
+- Website: https://paweldywan.com/
 
 ## Acknowledgments
 
