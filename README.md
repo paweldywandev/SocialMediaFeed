@@ -372,5 +372,5 @@ This project is licensed under the MIT License. See the LICENSE file for details
 
 **Project Repository:** https://github.com/paweldywandev/SocialMediaFeed
 
-**Live Application:** https://socialmediafeed.paweldywandev.com/
+**Live Application:** https://socialmediafeed.paweldywan.com/
 
