@@ -2,7 +2,7 @@
 
 A full-stack social media feed application with user authentication, post management, and interactive features.
 
-**Live Application:** https://socialmediafeed.paweldywan.com/
+**Live Application:** https://socialmediafeed.paweldywandev.com/
 
 ## Overview
 
@@ -94,7 +94,7 @@ Before you begin, ensure you have the following installed:
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/paweldywan/SocialMediaFeed.git
+   git clone https://github.com/paweldywandev/SocialMediaFeed.git
    cd SocialMediaFeed
    ```
 
@@ -320,7 +320,7 @@ Contributions are welcome! Please follow these guidelines:
 
 1. **Fork the repository**
    ```bash
-   git fork https://github.com/paweldywan/SocialMediaFeed.git
+   git fork https://github.com/paweldywandev/SocialMediaFeed.git
    ```
 
 2. **Create a feature branch**
@@ -356,8 +356,8 @@ This project is licensed under the MIT License. See the LICENSE file for details
 
 **Pawel Dywan**
 
-- GitHub: [@paweldywan](https://github.com/paweldywan)
-- Website: https://paweldywan.com/
+- GitHub: [@paweldywandev](https://github.com/paweldywandev)
+- Website: https://paweldywandev.com/
 
 ## Acknowledgments
 
@@ -370,6 +370,7 @@ This project is licensed under the MIT License. See the LICENSE file for details
 
 ---
 
-**Project Repository:** https://github.com/paweldywan/SocialMediaFeed
+**Project Repository:** https://github.com/paweldywandev/SocialMediaFeed
 
-**Live Application:** https://socialmediafeed.paweldywan.com/
+**Live Application:** https://socialmediafeed.paweldywandev.com/
+
